@@ -8,7 +8,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/AndressaDaCosta/rocketseat-twitter-flexbox">
   
-  <a href="https://github.com/AndressaDaCosta/rocketseat-twitter-flexbox/commits/master">
+  <a href="https://github.com/AndressaDaCosta/rocketseat-twitter-flexbox/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AndressaDaCosta/rocketseat-twitter-flexbox">
   </a>
 
