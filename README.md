@@ -42,6 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
 
+<!--
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
@@ -55,6 +56,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
+-->
 
 by [AndressaDaCosta](https://www.linkedin.com/in/andressa-da-costa) :wave:
